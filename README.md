@@ -202,4 +202,3 @@ Other options
 -------------
 
 Start `de4dot` without any arguments and it will show all options.
-
